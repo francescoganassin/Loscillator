@@ -51,12 +51,12 @@ void setup(){
   aCos7.setFreq(mtof(62));
   aCos8.setFreq(mtof(67));
 
-  kVol1.setFreq(0.01914f); 
-  kVol2.setFreq(0.02739f);
-  kVol3.setFreq(0.00514f);
-  kVol4.setFreq(0.01001f);
-  kVol5.setFreq(0.01451f);
-  kVol6.setFreq(0.00992f);
+  kVol1.setFreq(0.00984f); 
+  kVol2.setFreq(0.01739f);
+  kVol3.setFreq(0.00314f);
+  kVol4.setFreq(0.01101f);
+  kVol5.setFreq(0.00051f);
+  kVol6.setFreq(0.00092f);
   kVol7.setFreq(0.00347f);
   kVol8.setFreq(0.01393f);
   
